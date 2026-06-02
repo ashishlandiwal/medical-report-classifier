@@ -26,8 +26,10 @@ model_path = REPORTS / "best_model.joblib"
 metrics_path = REPORTS / "metrics.json"
 
 if not model_path.exists():
-    st.warning("No trained model found. Run `python -m medclf.train --no-mlflow` first.")
-    st.stop()
+    with st.spinner("Training models on first run (~15s)..."):
+        from medclf.train import run_experiment, save_artifacts
+
+        save_artifacts(run_experiment(use_mlflow=False), REPORTS)
 
 model = joblib.load(model_path)
 metrics = json.loads(metrics_path.read_text(encoding="utf-8")) if metrics_path.exists() else {}
