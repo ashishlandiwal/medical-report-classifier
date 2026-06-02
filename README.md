@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Medical%20Report%20Classifier&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Imbalanced%20ML%20%C2%B7%20SMOTE%20%C2%B7%20MLflow%20%C2%B7%20Streamlit&descAlignY=72&descSize=16" width="100%"/>
+</div>
+
 # Medical Report Classifier — Imbalanced Supervised ML
 
 [![CI](https://github.com/ashishlandiwal/medical-report-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/ashishlandiwal/medical-report-classifier/actions/workflows/ci.yml)
