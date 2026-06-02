@@ -1,0 +1,3 @@
+# Experiment tracking + interactive dashboard.
+mlflow>=2.0       # run training without --no-mlflow to log runs
+streamlit>=1.30   # streamlit run app/streamlit_app.py
