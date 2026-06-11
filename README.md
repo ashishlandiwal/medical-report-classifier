@@ -4,6 +4,10 @@
 
 # Medical Report Classifier — Imbalanced Supervised ML
 
+[![Live Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-HF%20Spaces-blue)](https://huggingface.co/spaces/ashishjangra284/medical-report-classifier)
+
+**🚀 Try it live:** https://huggingface.co/spaces/ashishjangra284/medical-report-classifier
+
 [![CI](https://github.com/ashishlandiwal/medical-report-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/ashishlandiwal/medical-report-classifier/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
