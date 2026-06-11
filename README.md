@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Medical%20Report%20Classifier&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Imbalanced%20ML%20%C2%B7%20SMOTE%20%C2%B7%20MLflow%20%C2%B7%20Streamlit&descAlignY=72&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Breast%20Cancer%20Diagnosis%20ML&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Imbalanced%20ML%20%C2%B7%20SMOTE%20%C2%B7%20MLflow%20%C2%B7%20Streamlit&descAlignY=72&descSize=16" width="100%"/>
 </div>
 
-# Medical Report Classifier — Imbalanced Supervised ML
+# Breast Cancer Diagnosis — Imbalanced Supervised ML
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-HF%20Spaces-blue)](https://huggingface.co/spaces/ashishjangra284/medical-report-classifier)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-HF%20Spaces-blue)](https://huggingface.co/spaces/ashishjangra284/breast-cancer-diagnosis-ml)
 
-**🚀 Try it live:** https://huggingface.co/spaces/ashishjangra284/medical-report-classifier
+**🚀 Try it live:** https://huggingface.co/spaces/ashishjangra284/breast-cancer-diagnosis-ml
 
-[![CI](https://github.com/ashishlandiwal/medical-report-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/ashishlandiwal/medical-report-classifier/actions/workflows/ci.yml)
+[![CI](https://github.com/ashishlandiwal/breast-cancer-diagnosis-ml/actions/workflows/ci.yml/badge.svg)](https://github.com/ashishlandiwal/breast-cancer-diagnosis-ml/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 

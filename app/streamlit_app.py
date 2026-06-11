@@ -19,7 +19,7 @@ from medclf.data import load_data  # noqa: E402
 REPORTS = Path(__file__).resolve().parents[1] / "reports"
 
 st.set_page_config(page_title="Breast Cancer Classifier", page_icon="🩺", layout="wide")
-st.title("🩺 Breast Cancer Malignancy Classifier")
+st.title("🩺 Breast Cancer Diagnosis — Imbalanced ML")
 st.caption("Educational demo — not for clinical use.")
 
 model_path = REPORTS / "best_model.joblib"
