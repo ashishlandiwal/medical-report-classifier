@@ -20,6 +20,14 @@ The emphasis is the part that actually matters in healthcare ML: **recall on the
 (malignant) class** — because a false negative is a missed cancer — and being honest about
 the small-sample limitations.
 
+## 🖥️ Preview
+
+<p align="center"><a href="https://huggingface.co/spaces/ashishjangra284/breast-cancer-diagnosis-ml"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Live_Demo-Try_it_now-22C55E?style=for-the-badge"/></a></p>
+
+<p align="center">
+  <img src="reports/confusion_matrix.png" width="560" alt="Breast cancer classifier confusion matrix"/>
+</p>
+
 ## Dataset
 
 Breast Cancer Wisconsin (Diagnostic), bundled with scikit-learn (569 samples, 30 real-valued
